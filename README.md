@@ -5,7 +5,7 @@ Corso del Professor Bottoni
 
 ## Autori
 
-- [Federico Natalini](https://github.com/HGlpHG)
-- [Elias Patricio Solorzano Loor](https://github.com/skunky96)
+- [Federico Natalini](https://github.com/skunky96)
+- [Elias Patricio Solorzano Loor](https://github.com/HGlpHG)
 - [Michele Spina](https://github.com/michaelplug)
 
