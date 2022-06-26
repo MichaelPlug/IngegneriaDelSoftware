@@ -1,7 +1,5 @@
-# Progetto di Ingegneria del Software
-Anno accademico 2019/20
-
-Corso del Professor Bottoni
+# WFM - Bee on Air 🐝
+Progetto per il corso di Ingegneria del Software dell'a.a. 2019/20 tenuto dal [prof. Bottoni Paolo](https://www.di.uniroma1.it/it/docenti/bottoni-paolo).
 
 ## Autori
 
